@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\ryan\documents\github\altonridetimes\altonqueuetimes\packages\microsoft.applicationinsights.runtimetelemetry.0.10.0-build17704\lib\portable-win81+wpa81\microsoft.applicationinsights.runtimetelemetry.winmd" HashGuid="fa824d94-fc41-f4bc-bd3f-75f8a9c4d635" />
+    <ReferenceAssembly PathName="c:\users\ryan\documents\github\altonridetimes\altonqueuetimes\packages\microsoft.applicationinsights.windowsphone.0.10.0-build17704\lib\wpa81\microsoft.applicationinsights.windows.winmd" HashGuid="730964b4-a91c-28ae-a6c7-83ad330c9f5a" />
+    <ReferenceAssembly PathName="c:\users\ryan\documents\github\altonridetimes\altonqueuetimes\packages\microsoft.applicationinsights.0.10.0-build17704\lib\portable-win81+wpa81\microsoft.applicationinsights.winmd" HashGuid="92cc8a01-6e7c-e703-e31e-09910b0c240c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
